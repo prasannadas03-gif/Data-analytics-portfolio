@@ -39,7 +39,7 @@ Excel Sales Dashboard.xlsx – Main dashboard file
 Dataset.csv – Sample data source
 
 🖼️ Dashboard Preview
-![Excel Dashboard Preview]([excel-image-link-here]([https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Excel%20Sales%20Dashboard.xlsx](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/excel_dashboard_preview.png.PNG)
+([excel-image-link-here]([https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Excel%20Sales%20Dashboard.xlsx](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/excel_dashboard_preview.png.PNG)
 
 📊 Power BI Sales Dashboard
 📌 Overview
