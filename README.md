@@ -1,60 +1,101 @@
-Paralympics Dashboard – Power BI Project
-📘 Overview
+📊 Data Analytics Portfolio
 
-This Power BI dashboard provides an interactive analysis of Paralympics data, highlighting country-wise performance, medal counts, event participation, and overall trends across different years.
-The goal of this project is to transform raw data into meaningful insights using data visualization techniques.
+👋 About
 
-🎯 Objectives
+Welcome to my Data Analytics Portfolio, showcasing projects that demonstrate my skills in data visualization, dashboard design, and analytics using Microsoft Excel and Power BI.
+Each project focuses on transforming raw data into actionable insights and clear business reports.
 
-To visualize country-wise gold, silver, and bronze medals.
+🧾 Excel Sales Dashboard
 
-To identify top-performing countries and sports.
+📌 Overview
 
-To create an interactive dashboard for easy exploration of the dataset.
+This project highlights my ability to build interactive Excel dashboards to visualize sales performance and KPIs.
+It focuses on data cleaning, formula optimization, and visualization techniques to make decision-making faster and easier.
 
-🧰 Tools & Technologies Used
+🚀 Features
 
-Power BI – for data modeling and visualization
+Dynamic charts and KPIs for monthly and yearly sales trends
 
-Excel – for initial data cleaning and formatting
+Conditional formatting for better readability
 
-DAX (Data Analysis Expressions) – for creating calculated measures
+Automated calculations using formulas.
 
-Power Query Editor – for data transformation
+Professional layout and formatting for reporting
 
-📊 Key Insights
+🧠 Skills Demonstrated
 
-[✔️] The top 5 countries consistently dominated across multiple events.
+Data Cleaning & Transformation
 
-[✔️] Certain sports categories showed significant growth in participation.
+Advanced Excel Formulas
 
-[✔️] Medal distribution trends reveal shifts in regional performance over time.
+Dashboard Design & Visualization
 
-📁 Project Files
+Business Reporting
 
-Paralympics Dashboard.pbix → Power BI file containing all visualizations.
+📂 Files
 
-🧠 Learnings
+Excel Sales Dashboard.xlsx – Main dashboard file
 
-Through this project, I gained deeper understanding of:
+Dataset.csv – Sample data source
 
-Using DAX functions for advanced calculations
+🖼️ Dashboard Preview (optional)
+![Excel Dashboard Preview](your-excel-image-link-here)
 
-Designing dynamic visuals in Power BI
+📊 Power BI Sales Dashboard
+📌 Overview
 
-Cleaning and shaping data for business reporting
+This Power BI dashboard was created to visualize company sales performance interactively, combining multiple data sources and enabling drill-down insights.
 
-🚀 How to View the Dashboard
+🚀 Features
 
-If you have Power BI Desktop installed:
+Interactive visuals with slicers and filters
 
-Download the .pbix file from this repository.
+Regional, product-wise, and time-based performance tracking
 
-Open it in Power BI Desktop.
+DAX calculations for KPIs and profit analysis
 
-Explore the dashboard interactively.
+Clean, modern layout for easy interpretation
 
-👨‍💻 Author
+🧠 Skills Demonstrated
 
-Prasanna Kumar Das
-Data Analytics | Excel | Power BI | Transforming data into insights
+Power BI Data Modeling
+
+DAX (Data Analysis Expressions)
+
+Power Query for data transformation
+
+Data Visualization & Storytelling
+
+📂 Files
+
+Sales Dashboard.pbix – Power BI report file
+
+Data Source.xlsx – Raw dataset
+
+🖼️ Dashboard Preview (optional)
+![Power BI Dashboard Preview](your-powerbi-image-link-here)
+
+💡 Key Takeaways
+
+These projects demonstrate my end-to-end data analytics process:
+
+Collecting and cleaning data
+
+Creating data models and measures
+
+Designing user-friendly dashboards
+
+Communicating insights effectively
+
+📫 Contact
+
+If you’d like to connect or view more of my work:
+
+GitHub: prasnandas03-gif
+
+LinkedIn: (Add your LinkedIn profile link here)
+
+Email: (Optional – only if you want to share it)
+
+✨ This portfolio is part of my continuous learning journey in Data Analytics, focusing on Excel, Power BI, and data storytelling.
+
