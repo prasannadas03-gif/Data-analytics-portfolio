@@ -68,7 +68,7 @@ Data Visualization & Storytelling
 
 📂 Files
 
-Sales Dashboard.pbix – Power BI report file
+Paralympics Dashboard.pbix – Power BI report file
 
 Data Source.xlsx – Raw dataset
 
