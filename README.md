@@ -5,7 +5,7 @@
 Welcome to my Data Analytics Portfolio, showcasing projects that demonstrate my skills in data visualization, dashboard design, and analytics using Microsoft Excel and Power BI.
 Each project focuses on transforming raw data into actionable insights and clear business reports.
 
-🧾 Excel Sales Dashboard
+🧾 Excel Sales Dashboard Project
 
 📌 Overview
 
@@ -38,9 +38,9 @@ Excel Sales Dashboard.xlsx – Main dashboard file
 
 Excel_Dashboard_Preview – Sample data source
 
-🖼️![Excel Dashboard Preview]https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/excel_dashboard_preview.PNG
+🖼️![Excel Dashboard Preview Lik]https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/excel_dashboard_preview.PNG
 
-📊 Power BI Sales Dashboard
+📊 Power BI Dashboard Project
 
 📌 Overview
 
