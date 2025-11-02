@@ -89,11 +89,9 @@ Communicating insights effectively
 
 If you’d like to connect or view more of my work:
 
-GitHub: prasnandas03-gif
+LinkedIn:https://www.linkedin.com/in/prasanna-kumar-das/
+Kaggle Project Link:(https://www.kaggle.com/prasannakumardas)
 
-LinkedIn: (Add your LinkedIn profile link here)
-
-Email: (Optional – only if you want to share it)
 
 ✨ This portfolio is part of my continuous learning journey in Data Analytics, focusing on Excel, Power BI, and data storytelling.
 
