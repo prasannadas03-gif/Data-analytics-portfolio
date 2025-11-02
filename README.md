@@ -42,6 +42,7 @@ Excel_Dashboard_Preview – Sample data source
 ([excel-image-link-here]https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/excel_dashboard_preview.PNG
 
 📊 Power BI Sales Dashboard
+
 📌 Overview
 
 This Power BI dashboard was created to visualize company sales performance interactively, combining multiple data sources and enabling drill-down insights.
