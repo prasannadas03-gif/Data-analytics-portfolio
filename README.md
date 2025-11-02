@@ -36,7 +36,7 @@ Business Reporting
 
 Excel Sales Dashboard.xlsx – Main dashboard file
 
-Dataset.csv – Sample data source
+Excel_Dashboard_Preview – Sample data source
 
 🖼️ Dashboard Preview
 ([excel-image-link-here]https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/excel_dashboard_preview.PNG
