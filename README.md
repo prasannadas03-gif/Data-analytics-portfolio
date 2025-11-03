@@ -36,7 +36,8 @@ Business Reporting
 
 Excel Sales Dashboard.xlsx – Main dashboard file
 
-🖼️![Excel Dashboard Preview Link]https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Excel_Dashboard_Preview.png
+Excel Dashboard Preview
+🖼️![Excel Dashboard Preview Link](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Excel_Dashboard_Preview.png))
 
 
 
