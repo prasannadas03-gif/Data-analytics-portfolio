@@ -36,7 +36,7 @@ Business Reporting
 
 Excel Sales Dashboard.xlsx – Main dashboard file
 
-🖼️![Excel Dashboard Preview Link]https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/excel_dashboard_preview.PNG
+🖼️![Excel Dashboard Preview Link]https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Excel_Dashboard_Preview.png
 
 
 
@@ -71,7 +71,7 @@ Data Visualization & Storytelling
 Paralympics Dashboard.pbix – Power BI report file
 
 🖼️ Power BI Dashboard Preview
-![Power BI Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/commit/979c04a9f7c6035faaddabd9cd56a02e66a5f8b2))
+![Power BI Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Paralympics_Power_BI_Dashboard.Preview.png))
 
 💡 Key Takeaways
 
