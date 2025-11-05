@@ -2,15 +2,15 @@
 
 👋 About
 
-Welcome to my Data Analytics Portfolio, showcasing projects that demonstrate my skills in data visualization, dashboard design, and analytics using Microsoft Excel and Power BI.
+Welcome to my Data Analytics Portfolio, showcasing projects that demonstrate my skills in data visualization, dashboard design, and analytics using Microsoft Excel,Power BI,VBA,Macros and Artificial Intelligence(AI).
 Each project focuses on transforming raw data into actionable insights and clear business reports.
 
 🧾 Excel Dashboard Project
 
 📌 Overview
 
-This project highlights my ability to build interactive Excel dashboards to visualize sales performance and KPIs.
-It focuses on data cleaning, formula optimization, and visualization techniques to make decision-making faster and easier.
+This is my collection of **Excel Dashboard Projects** — all created and designed with the help of MS Excel,VBA,Macros,Artificial Intelligence(AI) and data analytics concepts.
+Each dashboard focuses on clear visual insights, automated reporting, and interactive data analysis.
 
 🚀 Features
 
@@ -32,12 +32,21 @@ Dashboard Design & Visualization
 
 Business Reporting
 
+Data Analytics Concepts 
+
+Artificial Intelligence
+
 📂 Files
 
-Excel Sales Dashboard.xlsx – Main dashboard file
+Excel Sales Dashboard.xlsx – Excel File
 
-Excel Dashboard Preview
+Sales-Excel-Dashboard-Using-AI - Excel File
+
+Excel Sales Dashboard
 🖼️![Excel Dashboard Preview Link](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Excel_Dashboard_Preview.png))
+
+Sales-Excel-Dashboard-Using-AI
+🖼️![Sales-Excel-Dashboard-Using-AI Preview Link](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Sales-Excel-Dashboard-Using-AI-Preview.PNG))
 
 
 
