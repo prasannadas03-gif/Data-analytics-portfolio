@@ -38,9 +38,9 @@ Artificial Intelligence
 
 📂 Files
 
-Excel Sales Dashboard.xlsx – Excel File
+Excel Sales Dashboard.xlsx – 1st Project Excel File
 
-Sales-Excel-Dashboard-Using-AI - Excel File
+Sales-Excel-Dashboard-Using-AI - 2nd Project Excel File
 
 Excel Sales Dashboard
 🖼️![Excel Dashboard Preview Link](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Excel_Dashboard_Preview.png))
@@ -54,7 +54,10 @@ Sales-Excel-Dashboard-Using-AI
 
 📌 Overview
 
-This Power BI dashboard was created to visualize company sales performance interactively, combining multiple data sources and enabling drill-down insights.
+ My Power BI Dashboard Project a collection of Power BI Dashboards created to analyze, visualize, and present real-world business data in an interactive and insightful manner.
+Each dashboard focuses on solving specific business problems — from tracking sales performance to analyzing customer behavior and operational trends.
+
+The goal of this project is to demonstrate data-driven decision-making using Power BI by transforming raw data into meaningful insights through clean visuals, DAX measures, and interactive reports.
 
 🚀 Features
 
@@ -78,10 +81,16 @@ Data Visualization & Storytelling
 
 📂 Files
 
-Paralympics Dashboard.pbix – Power BI report file
+Paralympics Dashboard.pbix – 1st Project File
 
-🖼️ Power BI Dashboard Preview
-![Power BI Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Paralympics_Power_BI_Dashboard.Preview.png))
+Sales Power BI Dashboard.pbix- 2nd Project File
+
+🖼️ Paralympics Power BI Dashboard Preview
+![Paralympics Power BI Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Paralympics_Power_BI_Dashboard.Preview.png))
+
+🖼️ Sales Power BI Dashboard Preview
+![Sales Power BI Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Sales%20Power%20BI%20Dashboard%20Preview.PNG))
+
 
 💡 Key Takeaways
 
