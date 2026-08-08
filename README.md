@@ -16,6 +16,14 @@ Each project focuses on transforming raw data into clear, interactive business r
 
 ---
 
+## 📄 Documents
+
+| Document | Description |
+|---|---|
+| [📄 Resume — AI & Data Analytics](./Prasanna-Kumar-Das-AI-Data-Analytics-Resume.pdf) | Full professional resume with 14 years MIS & data experience + AI automation |
+
+---
+
 ## 🧾 Excel Dashboard Projects
 
 ### Project 1 — Excel Sales Dashboard
