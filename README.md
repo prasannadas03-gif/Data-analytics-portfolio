@@ -1,114 +1,124 @@
-📊 Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
-👋 About
+**Prasanna Kumar Das** | AI Automation Consultant & Data Analyst | RINDAX, Assam, India
 
-Welcome to my Data Analytics Portfolio, showcasing projects that demonstrate my skills in data visualization, dashboard design, and analytics using Microsoft Excel,Power BI,VBA,Macros and Artificial Intelligence(AI).
-Each project focuses on transforming raw data into actionable insights and clear business reports.
+> Transforming raw data into actionable insights through Excel, Power BI, and AI-powered dashboards.
 
-🧾 Excel Dashboard Project
+---
 
-📌 Overview
+## 👋 About
 
-This is my collection of **Excel Dashboard Projects** — all created and designed with the help of MS Excel,VBA,Macros,Artificial Intelligence(AI) and data analytics concepts.
-Each dashboard focuses on clear visual insights, automated reporting, and interactive data analysis.
+Welcome to my Data Analytics Portfolio — a collection of projects demonstrating my skills in **data visualization**, **dashboard design**, and **business analytics** using Microsoft Excel, Power BI, VBA, Macros, and Artificial Intelligence (AI).
 
-🚀 Features
+Each project focuses on transforming raw data into clear, interactive business reports that support decision-making.
 
-Dynamic charts and KPIs for monthly and yearly sales trends
+> 🤖 Also check out my **[AI Automation Workflows Portfolio](https://github.com/prasannadas03-gif/rindax-ai-workflows)** — n8n, Claude AI, Airtable & Gmail automation built for real businesses.
 
-Conditional formatting for better readability
+---
 
-Automated calculations using formulas.
+## 🧾 Excel Dashboard Projects
 
-Professional layout and formatting for reporting
+### Project 1 — Excel Sales Dashboard
 
-🧠 Skills Demonstrated
+**File:** `Excel Sales Dashboard.xlsx`
 
-Data Cleaning & Transformation
+A dynamic sales dashboard built in Excel with interactive charts, KPIs, and automated reporting using formulas and conditional formatting.
 
-Advanced Excel Formulas
+**Features:**
+- Dynamic charts and KPIs for monthly and yearly sales trends
+- Conditional formatting for better readability
+- Automated calculations using advanced formulas
+- Professional layout for business reporting
 
-Dashboard Design & Visualization
+**Skills:** Data Cleaning · Advanced Excel Formulas · Dashboard Design · Business Reporting
 
-Business Reporting
+**Preview:**
 
-Data Analytics Concepts 
+![Excel Sales Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Excel_Dashboard_Preview.png)
 
-Artificial Intelligence
+---
 
-📂 Files
+### Project 2 — Sales Excel Dashboard Using AI
 
-Excel Sales Dashboard.xlsx – 1st Project Excel File
+**File:** `Sales-Excel-Dashboard-Using-AI.xlsx`
 
-Sales-Excel-Dashboard-Using-AI - 2nd Project Excel File
+An AI-assisted Excel dashboard that leverages Artificial Intelligence to enhance data analysis, generate insights, and automate reporting workflows.
 
-Excel Sales Dashboard
-🖼️![Excel Dashboard Preview Link](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Excel_Dashboard_Preview.png))
+**Features:**
+- AI-assisted data analysis and insight generation
+- Automated calculations and reporting
+- Interactive charts and KPI tracking
+- Clean, professional design
 
-Sales-Excel-Dashboard-Using-AI
-🖼️![Sales-Excel-Dashboard-Using-AI Preview Link](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Sales-Excel-Dashboard-Using-AI-Preview.PNG))
+**Skills:** AI-Assisted Analytics · Excel Automation · Data Visualization · VBA & Macros
 
+**Preview:**
 
+![Sales Excel Dashboard Using AI Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Sales-Excel-Dashboard-Using-AI-Preview.PNG)
 
-📊 Power BI Dashboard Project
+---
 
-📌 Overview
+## 📊 Power BI Dashboard Projects
 
- My Power BI Dashboard Project a collection of Power BI Dashboards created to analyze, visualize, and present real-world business data in an interactive and insightful manner.
-Each dashboard focuses on solving specific business problems — from tracking sales performance to analyzing customer behavior and operational trends.
+### Project 1 — Paralympics Power BI Dashboard
 
-The goal of this project is to demonstrate data-driven decision-making using Power BI by transforming raw data into meaningful insights through clean visuals, DAX measures, and interactive reports.
+**File:** `Paralympics_Power_BI_Dashboard.pbix`
 
-🚀 Features
+An interactive Power BI dashboard analyzing Paralympics performance data — tracking medal counts, country comparisons, athlete statistics, and historical trends.
 
-Interactive visuals with slicers and filters
+**Features:**
+- Interactive visuals with slicers and filters
+- Country-wise and sport-wise performance tracking
+- DAX calculations for KPIs
+- Clean, modern layout for easy interpretation
 
-Regional, product-wise, and time-based performance tracking
+**Skills:** Power BI Data Modeling · DAX · Power Query · Data Visualization & Storytelling
 
-DAX calculations for KPIs and profit analysis
+**Preview:**
 
-Clean, modern layout for easy interpretation
+![Paralympics Power BI Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Paralympics_Power_BI_Dashboard.Preview.png)
 
-🧠 Skills Demonstrated
+---
 
-Power BI Data Modeling
+### Project 2 — Sales Power BI Dashboard
 
-DAX (Data Analysis Expressions)
+**File:** `Sales Power BI Dashboard.pbix`
 
-Power Query for data transformation
+A comprehensive sales analytics dashboard built in Power BI, analyzing regional performance, product trends, customer behavior, and profit margins.
 
-Data Visualization & Storytelling
+**Features:**
+- Regional, product-wise, and time-based performance tracking
+- DAX measures for revenue, profit, and growth KPIs
+- Interactive slicers for drill-down analysis
+- Data storytelling with clean visual design
 
-📂 Files
+**Skills:** Power BI · DAX · Power Query · Business Intelligence · Sales Analytics
 
-Paralympics Dashboard.pbix – 1st Project File
+**Preview:**
 
-Sales Power BI Dashboard.pbix- 2nd Project File
+![Sales Power BI Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Sales%20Power%20BI%20Dashboard%20Preview.PNG)
 
-🖼️ Paralympics Power BI Dashboard Preview
-![Paralympics Power BI Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Paralympics_Power_BI_Dashboard.Preview.png))
+---
 
-🖼️ Sales Power BI Dashboard Preview
-![Sales Power BI Dashboard Preview](https://github.com/prasannadas03-gif/Data-analytics-portfolio/blob/main/Sales%20Power%20BI%20Dashboard%20Preview.PNG))
-
-
-💡 Key Takeaways
+## 💡 Key Takeaways
 
 These projects demonstrate my end-to-end data analytics process:
 
-Collecting and cleaning data
+- Collecting and cleaning raw data
+- Building data models and DAX measures
+- Designing user-friendly, interactive dashboards
+- Communicating insights effectively to business stakeholders
 
-Creating data models and measures
+---
 
-Designing user-friendly dashboards
+## 📫 Contact
 
-Communicating insights effectively
+**Prasanna Kumar Das**
+AI Automation Consultant & Data Analyst | RINDAX
+🌐 [rindax.com](https://rindax.com)
+💼 [LinkedIn](https://www.linkedin.com/in/prasanna-kumar-das/)
+📍 Guwahati, Assam, India
 
-📫 Contact
+---
 
-LinkedIn Profile Link:https://www.linkedin.com/in/prasanna-kumar-das/
-
-
-
-✨ This portfolio is part of my continuous learning journey in Data Analytics, focusing on Excel, Power BI, and data storytelling.
-
+✨ *This portfolio is part of my continuous learning journey in Data Analytics and AI Automation, focusing on Excel, Power BI, and data storytelling.*
